@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @dainetti
-- 👀 I’m interested in get better as a developer
+- 👀 I’m interested in get better as a developer, I have experience mostly in C# and a little in C++
 - 📫 How to reach me: My mail is cerfogli.andrea@gmail.com
-
-
